@@ -1,5 +1,7 @@
 {
   "name": "itq-app",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
